@@ -4,7 +4,7 @@
 # ignore
 .idea/
 target/
-project/
+#project/
 *test/
 *main/
 
