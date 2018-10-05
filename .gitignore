@@ -3,7 +3,7 @@
 
 # ignore
 .idea/
-.target/
+target/
 project/
 *test/
 *main/
