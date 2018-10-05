@@ -1,2 +1,12 @@
 *.class
 *.log
+
+# ignore
+.idea/
+.target/
+project/
+*test/
+*main/
+
+
+
